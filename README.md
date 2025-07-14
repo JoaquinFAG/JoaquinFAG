@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/bannercapuchaestesi.png" alt="Banner NyxKraken" width="600"/>
+  <img src="assets/bannercapuchaestesi.jpg" alt="Banner NyxKraken" width="600"/>
 </p>
 
 # HI , I´M JOAQUIN (NyxKraken)!!!
