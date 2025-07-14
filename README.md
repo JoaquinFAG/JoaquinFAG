@@ -1,4 +1,6 @@
-<img src="assets/bannercapuchaestesi.png" alt="Banner NyxKraken" width="600"/>
+<p align="center">
+  <img src="assets/bannercapuchaestesi.png" alt="Banner NyxKraken" width="600"/>
+</p>
 
 # HI , I´M JOAQUIN (NyxKraken)!!!
 
