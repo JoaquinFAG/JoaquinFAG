@@ -1,4 +1,4 @@
-![Banner] https://drive.google.com/file/d/184z2oKcfykbKy0dI4WMXGey0XM7_FF5o/view?usp=drive_link
+<img src="assets/bannercapuchaestesi.png" alt="Banner NyxKraken" width="600"/>
 
 # HI , I´M JOAQUIN (NyxKraken)!!!
 
